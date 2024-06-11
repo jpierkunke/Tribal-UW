@@ -1,0 +1,102 @@
+---
+title: "Training"
+---
+
+## Introductions
+
+https://www.youtube.com/watch?v=8VCr_bohahw (Describes difference between environmental justice and Tribal rights/trust responsibility; they are different legal definitions)
+
+Environmental justice concerns groups or communities that do not have sovereign status
+
+Paper by Darren will help immensely with understanding this
+
+we are not a citizen science group; we work with the federal government. water quality standards have to be approved by the government. there are legal difficulties because of things that happen state by state; for example, Maine doesn't recognize the Penobscot Nation as a sovereign nation so can't get water quality standards approved by EPA.
+
+## How did this collaboration come to be?
+
+
+## About our Tribal partners
+
+- Background on the work already being done that we are joining and supporting
+
+- TXG
+
+- Angie Reed
+
+- Other people/organizations/contacts? Key messages?
+
+reservation lands, trust lands
+
+prior to settlement act in 1980, treaties in place hadn't been ratified by congress. 2/3 of the state of Maine was illegally occupied territory. Big implications.
+
+
+
+## Our work
+
+- Join monthly Tribal data drop-ins
+
+- Develop and lead monthly lessons for these drop-in sessions to provide ongoing support around R/R Studio and python (intro, graphs, for-loops, etc.)
+
+- Join monthly PNW Tribal coding group meetings
+
+- Attend and support TXG/Data Carpentry workshop on python
+
+- Collaborate with Angie Reed and TXG to develop a suite of R workshop lessons tailored to Tribal data examples
+
+- (Optional) Attend TXG conference this fall to connect in person with Tribal partners there
+
+
+
+
+## Training to work constructively with Tribal partners
+
+- Sensitivity of Tribal data, relevant history
+
+- How to work respectfully and productively with Tribal partners
+
+- [Indian Country 101](https://www.conservationtraining.org/course/view.php?id=309)
+
+
+
+
+## Expectations
+
+A short contract to summarize the standards for our work together
+
+what do you need? not “I’m here to help you”
+
+Acknowledging Tribes as sovereign nations that have a government-to-government relationship with the United States
+
+Sovereignty is inherent to Tribes; it is not something we or others can give or take away.
+
+I will not be ashamed to say, “I know not,” nor will I fail to call in my colleagues when the skills of another are needed for solving a problem.
+
+I will respect the privacy of my data subjects, for their data are not disclosed to me that the world may know, so I will tread with care in matters of privacy and security.
+
+I will remember that my data are not just numbers without meaning or context, but represent real people and situations, and that my work may lead to unintended societal consequences, such as inequality, poverty, and disparities due to algorithmic bias.
+
+...
+
+
+
+## Principles for effective collaboration and consulting
+
+- Demo a short lesson or consulting scenario (like microteaching); share feedback on what makes the lesson/exchange effective and what would make it more effective
+
+- Discuss common pitfalls and how to avoid them
+
+
+## Resources
+
+https://drive.google.com/file/d/1SO_rzZfOmiyAmYnkKNjTfQpAq8Qv60RA/view
+
+https://www.gida-global.org/care
+
+https://www.taylorfrancis.com/books/oa-mono/10.4324/9781315426570/indigenous-statistics-maggie-walter-chris-andersen
+
+https://mdsr-book.github.io/mdsr3e/08-ethics.html
+
+Books...
+
+
+

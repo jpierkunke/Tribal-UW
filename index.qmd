@@ -1,0 +1,29 @@
+---
+title: "Tribal-UW Collaboration"
+---
+
+::: {layout-ncol=2}
+
+[![](txg_logo.png){fig-alt="TXG logo"}](https://www.tribalexchangenetwork.org/)
+
+[![](uwstat_logo.png){fig-alt="UW Department of Statistics logo"}](https://stat.uw.edu/)
+
+:::
+
+The mission of the Tribal Exchange Network Group ([TXG](https://www.tribalexchangenetwork.org/)) is to 
+
+<p style="text-align: center;">**support Tribal management, analysis, and sharing of environmental data,**</p>
+
+so that it can be used to
+
+**advocate for tribal interests,**
+
+**preserve tribal lifeways,**
+
+**maintain cultural integrity, and**
+
+**enhance tribal member's sense of place.**
+
+TXG members and collaborators already provide many great free resources to Tribal environmental professionals, including coding/data workshops, [drop-in office hours](https://www.tribalexchangenetwork.org/trainings-events), and one-on-one consulting.
+
+The [Department of Statistics](https://stat.uw.edu/) at the University of Washington is starting a collaboration with TXG to provide additional consultants, workshop instructors, and collaborators. Our students have skills in R, Python, data management, and various areas of statistics. This is an opportunity for students in our department to exchange data and consulting expertise with Tribal environmental professionals, and to learn more about Tribal communities in the Pacific Northwest and across the country.
