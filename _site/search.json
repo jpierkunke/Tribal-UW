@@ -11,28 +11,28 @@
     "href": "training.html#expectations",
     "title": "Training",
     "section": "Expectations",
-    "text": "Expectations\nA short contract to summarize the standards for our work together\nwhat do you need? not “I’m here to help you”\nAcknowledging Tribes as sovereign nations that have a government-to-government relationship with the United States\nSovereignty is inherent to Tribes; it is not something we or others can give or take away.\nI will not be ashamed to say, “I know not,” nor will I fail to call in my colleagues when the skills of another are needed for solving a problem.\nI will respect the privacy of my data subjects, for their data are not disclosed to me that the world may know, so I will tread with care in matters of privacy and security.\nI will remember that my data are not just numbers without meaning or context, but represent real people and situations, and that my work may lead to unintended societal consequences, such as inequality, poverty, and disparities due to algorithmic bias.\n…"
+    "text": "Expectations\nTogether we will construct and agree to a short contract to summarize the standards for our work together. Here are some draft ideas:\n\nWe are collaborators and this is a mutual learning experience, an exchange. We will provide our skills and time to help Tribes build their capacity and resources, and we will learn skills from Tribal partners, build new relationships, and deepend our understanding of Tribal issues and environmental work.\nFirst and foremost, we are building relationships. We are not arriving, evaluating, deciding how to “help”, taking action, and leaving. Instead of saying “I’m here to help you”, we will ask, “What do you need?”\nWe acknowledge Tribes as sovereign nations that have a government-to-government relationship with the United States. Sovereignty is inherent to Tribes; it is not something we or others can give or take away.\nWe will not be ashamed to say, “I know not,” nor will we fail to call in our colleagues when the skills of another are needed for solving a problem.\nWe will respect the privacy of those who provide any data, for their data are not disclosed to us that the world may know, so we will tread with care in matters of privacy and security.\nWe will remember that data are not just numbers without meaning or context, but represent real people and situations, and that working with data may lead to unintended societal consequences, such as inequality, poverty, and disparities due to algorithmic bias."
   },
   {
     "objectID": "training.html#training-to-work-constructively-with-tribal-partners",
     "href": "training.html#training-to-work-constructively-with-tribal-partners",
     "title": "Training",
     "section": "Training to work constructively with Tribal partners",
-    "text": "Training to work constructively with Tribal partners\n\nSensitivity of Tribal data, relevant history\nHow to work respectfully and productively with Tribal partners\nIndian Country 101"
+    "text": "Training to work constructively with Tribal partners\nWe will participate together in ongoing training beyond our initial training so that we can continue to learn about the following:\n\nDifferent roles and identities, such as tribal professionals vs tribal citizens\nCommonalities and differences in the history and current experience of Tribes across the nation\nSensitivity of Tribal data and historical context for the importance of building trust\nThe significance of the Boldt Decision for Pacific NW Tribes\nTribal sovereignty and related legal issues that Tribes and Tribal environmental professionals deal with\nHow to work respectfully and productively with Tribal partners"
   },
   {
     "objectID": "training.html#principles-for-effective-collaboration-and-consulting",
     "href": "training.html#principles-for-effective-collaboration-and-consulting",
     "title": "Training",
     "section": "Principles for effective collaboration and consulting",
-    "text": "Principles for effective collaboration and consulting\n\nDemo a short lesson or consulting scenario (like microteaching); share feedback on what makes the lesson/exchange effective and what would make it more effective\nDiscuss common pitfalls and how to avoid them"
+    "text": "Principles for effective collaboration and consulting\nDuring ongoing training, we will demo short lessons or consulting scenarios as through microteaching, sharing feedback on what makes the lesson/exchange effective and what would make it more effective.\nWe will discuss common pitfalls and how to avoid them."
   },
   {
     "objectID": "training.html",
     "href": "training.html",
     "title": "Training",
     "section": "",
-    "text": "https://www.youtube.com/watch?v=8VCr_bohahw (Describes difference between environmental justice and Tribal rights/trust responsibility; they are different legal definitions)\nEnvironmental justice concerns groups or communities that do not have sovereign status\nPaper by Darren will help immensely with understanding this\nwe are not a citizen science group; we work with the federal government. water quality standards have to be approved by the government. there are legal difficulties because of things that happen state by state; for example, Maine doesn’t recognize the Penobscot Nation as a sovereign nation so can’t get water quality standards approved by EPA."
+    "text": "We will introduce ourselves to each other and then begin with the following video and discussion:\nThe River Is Our Relative: The Story of the Penobscot Nation\n\nWhat is the difference (in legal definitions and implications) between environmental justice and Tribal rights/trust responsibility?\nEnvironmental justice involves citizen science groups or communities that do not have sovereign status\nPenobscot Nation works with the federal government.\nSee paper by Ranco and Suagee (2007) below to learn more about this"
   },
   {
     "objectID": "training.html#about-our-tribal-partners",
@@ -53,7 +53,7 @@
     "href": "training.html#resources",
     "title": "Training",
     "section": "Resources",
-    "text": "Resources\nhttps://drive.google.com/file/d/1SO_rzZfOmiyAmYnkKNjTfQpAq8Qv60RA/view\nhttps://www.gida-global.org/care\nhttps://www.taylorfrancis.com/books/oa-mono/10.4324/9781315426570/indigenous-statistics-maggie-walter-chris-andersen\nhttps://mdsr-book.github.io/mdsr3e/08-ethics.html\nBooks…"
+    "text": "Resources\nWe will cover some of these as a group in our ongoing training, and you can also explore them yourselves.\n\nDarren Ranco and Dean Suagee (2007), Tribal Sovereignty and the Problem of Difference in Environmental Regulation: Observations on “Measured Separatism” in Indian Country. Antipode.\nIndian Country 101 Tutorial\nCARE principles for Indigenous Data Governance\nMaggie Walter and Chris Anderson (2016), Indigenous Statistics: A Quantitative Research Methodology. (open-source text)\nData science ethics (Chapter 8 of Modern Data Science with R, 3rd ed., by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton)\nWilkinson, Charles F. (2024). Treaty justice: the Northwest Tribes, the Boldt Decision, and the Recognition of Fishing Rights. University of Washington Press. Available through UW Library here.\nDover, Harriette S. (2013). Tulalip, From My Heart: An Autobiographical Account of a Reservation Community (1st ed.). University of Washington Press. Available through UW Library here."
   },
   {
     "objectID": "training.html#introductions",
@@ -67,6 +67,27 @@
     "href": "training.html#how-did-this-collaboration-come-to-be",
     "title": "Training",
     "section": "How did this collaboration come to be?",
-    "text": "How did this collaboration come to be?"
+    "text": "How did this collaboration come to be?\n(Note: The following background material is quoted directly from the TXG website linked below.)\nThe Tribal Exchange Network Group (TXG) is a USEPA Tribal Partnership Group that is focused on building Tribal capacity through education, innovation, and information exchange. TXG’s mission is to support Tribal management, analysis, and sharing of environmental data, so that it can be used to advocate for tribal interests, preserve tribal lifeways, maintain cultural integrity, and enhance tribal member’s sense of place.\nTXG is comprised of Tribal professionals experienced with managing, sharing, and analyzing environmental data. From Data Technicians to Environmental Directors, from coding geeks to grant writers, and from air, to water, to brownfields and beyond, TXG members have experience in all aspects of environmental data management.\nAs part of their mission, TXG members and collaborators already provide many great free resources to Tribal environmental professionals, including coding/data workshops, drop-in office hours, and one-on-one consulting. They are constantly looking for new resources and opportunities for capacity building for the Tribes."
+  },
+  {
+    "objectID": "training.html#introduction",
+    "href": "training.html#introduction",
+    "title": "Training",
+    "section": "",
+    "text": "We will introduce ourselves to each other and then begin with the following video and discussion:\nThe River Is Our Relative: The Story of the Penobscot Nation\n\nWhat is the difference (in legal definitions and implications) between environmental justice and Tribal rights/trust responsibility?\nEnvironmental justice involves citizen science groups or communities that do not have sovereign status\nPenobscot Nation works with the federal government.\nSee paper by Ranco and Suagee (2007) below to learn more about this"
+  },
+  {
+    "objectID": "training.html#about-our-tribal-partners-how-did-this-collaboration-come-to-be",
+    "href": "training.html#about-our-tribal-partners-how-did-this-collaboration-come-to-be",
+    "title": "Training",
+    "section": "About our Tribal partners: How did this collaboration come to be?",
+    "text": "About our Tribal partners: How did this collaboration come to be?\n(Note: The following background material is quoted directly from the TXG website linked below.)\nThe Tribal Exchange Network Group (TXG) is a USEPA Tribal Partnership Group that is focused on building Tribal capacity through education, innovation, and information exchange. TXG’s mission is to support Tribal management, analysis, and sharing of environmental data, so that it can be used to advocate for tribal interests, preserve tribal lifeways, maintain cultural integrity, and enhance tribal member’s sense of place.\nTXG is comprised of Tribal professionals experienced with managing, sharing, and analyzing environmental data. From Data Technicians to Environmental Directors, from coding geeks to grant writers, and from air, to water, to brownfields and beyond, TXG members have experience in all aspects of environmental data management.\nAs part of their mission, TXG members and collaborators already provide many great free resources to Tribal environmental professionals, including coding/data workshops, drop-in office hours, and one-on-one consulting. They are constantly looking for new resources and opportunities for capacity building for the Tribes. So this summer we are joining and supporting the great work that TXG and the Tribes are already doing.\nOur main contact for this project is Angie Reed, Vice President of TXG and Water Resource Planner for the Penobscot Indian Nation. She has been a part of TXG since 2007. Her focus is to develop and facilitate the exchange of technical skills (e.g. in R and python) that make the daily lives of Tribal environmental professionals easier."
+  },
+  {
+    "objectID": "training.html#our-work-this-summer",
+    "href": "training.html#our-work-this-summer",
+    "title": "Training",
+    "section": "Our work this summer",
+    "text": "Our work this summer\nSee our schedule here (internal link only)\n\nJoin monthly Tribal data drop-ins\nDevelop and lead monthly lessons for these drop-in sessions to provide ongoing support around R/R Studio and python (intro, graphs, for-loops, etc.)\nJoin monthly PNW Tribal coding group meetings\nAttend and support a TXG/Data Carpentry python workshop\nCollaborate with Angie Reed and TXG to develop a suite of R workshop lessons tailored to Tribal data examples\n(Optional) Attend TXG conference this fall to connect in person with Tribal partners there"
   }
 ]
