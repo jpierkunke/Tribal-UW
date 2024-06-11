@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tribal-UW Collaboration",
+    "section": "",
+    "text": "The mission of the Tribal Exchange Network Group (TXG) is to\n\nsupport Tribal management, analysis, and sharing of environmental data,\n\nso that it can be used to\nadvocate for tribal interests,\npreserve tribal lifeways,\nmaintain cultural integrity, and\nenhance tribal member’s sense of place.\nTXG members and collaborators already provide many great free resources to Tribal environmental professionals, including coding/data workshops, drop-in office hours, and one-on-one consulting.\nThe Department of Statistics at the University of Washington is starting a collaboration with TXG to provide additional consultants, workshop instructors, and collaborators. Our students have skills in R, Python, data management, and various areas of statistics. This is an opportunity for students in our department to exchange data and consulting expertise with Tribal environmental professionals, and to learn more about Tribal communities in the Pacific Northwest and across the country."
+  },
+  {
+    "objectID": "training.html#expectations",
+    "href": "training.html#expectations",
+    "title": "Training",
+    "section": "Expectations",
+    "text": "Expectations\nA short contract to summarize the standards for our work together\nwhat do you need? not “I’m here to help you”\nAcknowledging Tribes as sovereign nations that have a government-to-government relationship with the United States\nSovereignty is inherent to Tribes; it is not something we or others can give or take away.\nI will not be ashamed to say, “I know not,” nor will I fail to call in my colleagues when the skills of another are needed for solving a problem.\nI will respect the privacy of my data subjects, for their data are not disclosed to me that the world may know, so I will tread with care in matters of privacy and security.\nI will remember that my data are not just numbers without meaning or context, but represent real people and situations, and that my work may lead to unintended societal consequences, such as inequality, poverty, and disparities due to algorithmic bias.\n…"
+  },
+  {
+    "objectID": "training.html#training-to-work-constructively-with-tribal-partners",
+    "href": "training.html#training-to-work-constructively-with-tribal-partners",
+    "title": "Training",
+    "section": "Training to work constructively with Tribal partners",
+    "text": "Training to work constructively with Tribal partners\n\nSensitivity of Tribal data, relevant history\nHow to work respectfully and productively with Tribal partners\nIndian Country 101"
+  },
+  {
+    "objectID": "training.html#principles-for-effective-collaboration-and-consulting",
+    "href": "training.html#principles-for-effective-collaboration-and-consulting",
+    "title": "Training",
+    "section": "Principles for effective collaboration and consulting",
+    "text": "Principles for effective collaboration and consulting\n\nDemo a short lesson or consulting scenario (like microteaching); share feedback on what makes the lesson/exchange effective and what would make it more effective\nDiscuss common pitfalls and how to avoid them"
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training",
+    "section": "",
+    "text": "https://www.youtube.com/watch?v=8VCr_bohahw (Describes difference between environmental justice and Tribal rights/trust responsibility; they are different legal definitions)\nEnvironmental justice concerns groups or communities that do not have sovereign status\nPaper by Darren will help immensely with understanding this\nwe are not a citizen science group; we work with the federal government. water quality standards have to be approved by the government. there are legal difficulties because of things that happen state by state; for example, Maine doesn’t recognize the Penobscot Nation as a sovereign nation so can’t get water quality standards approved by EPA."
+  },
+  {
+    "objectID": "training.html#about-our-tribal-partners",
+    "href": "training.html#about-our-tribal-partners",
+    "title": "Training",
+    "section": "About our Tribal partners",
+    "text": "About our Tribal partners\n\nBackground on the work already being done that we are joining and supporting\nTXG\nAngie Reed\nOther people/organizations/contacts? Key messages?\n\nreservation lands, trust lands\nprior to settlement act in 1980, treaties in place hadn’t been ratified by congress. 2/3 of the state of Maine was illegally occupied territory. Big implications."
+  },
+  {
+    "objectID": "training.html#our-work",
+    "href": "training.html#our-work",
+    "title": "Training",
+    "section": "Our work",
+    "text": "Our work\n\nJoin monthly Tribal data drop-ins\nDevelop and lead monthly lessons for these drop-in sessions to provide ongoing support around R/R Studio and python (intro, graphs, for-loops, etc.)\nJoin monthly PNW Tribal coding group meetings\nAttend and support TXG/Data Carpentry workshop on python\nCollaborate with Angie Reed and TXG to develop a suite of R workshop lessons tailored to Tribal data examples\n(Optional) Attend TXG conference this fall to connect in person with Tribal partners there"
+  },
+  {
+    "objectID": "training.html#resources",
+    "href": "training.html#resources",
+    "title": "Training",
+    "section": "Resources",
+    "text": "Resources\nhttps://drive.google.com/file/d/1SO_rzZfOmiyAmYnkKNjTfQpAq8Qv60RA/view\nhttps://www.gida-global.org/care\nhttps://www.taylorfrancis.com/books/oa-mono/10.4324/9781315426570/indigenous-statistics-maggie-walter-chris-andersen\nhttps://mdsr-book.github.io/mdsr3e/08-ethics.html\nBooks…"
+  },
+  {
+    "objectID": "training.html#introductions",
+    "href": "training.html#introductions",
+    "title": "Training",
+    "section": "",
+    "text": "https://www.youtube.com/watch?v=8VCr_bohahw (Describes difference between environmental justice and Tribal rights/trust responsibility; they are different legal definitions)\nEnvironmental justice concerns groups or communities that do not have sovereign status\nPaper by Darren will help immensely with understanding this\nwe are not a citizen science group; we work with the federal government. water quality standards have to be approved by the government. there are legal difficulties because of things that happen state by state; for example, Maine doesn’t recognize the Penobscot Nation as a sovereign nation so can’t get water quality standards approved by EPA."
+  },
+  {
+    "objectID": "training.html#how-did-this-collaboration-come-to-be",
+    "href": "training.html#how-did-this-collaboration-come-to-be",
+    "title": "Training",
+    "section": "How did this collaboration come to be?",
+    "text": "How did this collaboration come to be?"
+  }
+]
